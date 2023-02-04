@@ -11,7 +11,7 @@ public class TeamProcure {
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
-    @FindBy(xpath = "//*[text()='Sign-up']")
+    @FindBy(xpath = "(//*[@class='link-primary text-decoration-none'])[1]")
     public WebElement signUp;
 
     @FindBy(xpath = "//input[@id='email']")

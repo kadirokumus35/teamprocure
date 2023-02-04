@@ -10,8 +10,10 @@ import org.testng.annotations.Test;
 import pages.TeamProcure;
 import utilities.ConfigReader;
 import utilities.Driver;
+import utilities.TestBaseCross;
+import utilities.TestBaseRapor;
 
-public class Sign_Up_ {
+public class Sign_Up_ extends TestBaseRapor {
 
    TeamProcure teamProcure=new TeamProcure();
 
@@ -19,9 +21,15 @@ public class Sign_Up_ {
 
    @Test
     public void test01() throws InterruptedException {
+
+        extentTest=extentReports.createTest("happyTest","pozitif login test");
         Driver.getDriver().get(ConfigReader.getProperty("teamProcureUrl"));
+        Thread.sleep(2000);
+        extentTest.info("cloud.teamprocure url adresine gidildi");
+
 
       teamProcure.signUp.click();
+      extentTest.info("Sign-up butonuna tiklandi");
 
       //teamProcure.eMail.sendKeys(ConfigReader.getProperty("eMail"));
 
@@ -81,6 +89,8 @@ public class Sign_Up_ {
        Assert.assertTrue(actualTitle.contains(expectedTitle));
 
 
+       Thread.sleep(3000);
+       Driver.closeDriver();
     }
 
 
