@@ -37,10 +37,10 @@ public class HappyTest extends TestBaseRapor {
 
        signUpYapilipDashboardEkraniDogrulandi();
        extentTest.info("Basarili bir sekilde Sign-up saglanip dashboard ekraninin acildigi dogrulandi");
-
-
-
     }
+
+
+
 
 
 
