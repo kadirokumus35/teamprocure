@@ -9,6 +9,20 @@ Ayrica test otomasyonu esnasinda karsilasilan zorluklar ve cozum uretimleri de e
 * Manual test ile ortaya cikarilan Test Case Stepleri Selenium suit ve TestNG frameworku ile otomate edildi<br>
 * OOP prensiplerine uygun, POM dizayninda proje insaa edilip HappyPath test oldugundan son adimda Hard Assertion ile dogrulama yapildi<br><br>
 
+& cloud.teamprocure url adresine gidildi<br>
+&	Sign-up butonuna tiklandi<br>
+&	E-Mail adresi olusturuldu ve yazildi<br>
+&	Kriterlere uygun password girisi yapildi<br>
+&	Password onayi icin ayni karakterlerle giris yapildi<br>
+&	Hizmet sartlari ve gizlilik politikasi kabul edildi<br>
+&	Register butonuna tiklandi<br>
+&	Hesap olusturma ekrani acildi<br>
+&	Register sayfasindaki gerekli alanlar dolduruldu<br>
+&	Istenilen secenekler belirlenerek isaretlendi<br>
+&	Istenilen olcu ve para birimi standartlari secildi<br>
+&	Sign-up tamamlandi<br>
+&	Basarili bir sekilde Sign-up saglanip dashboard ekraninin acildigi dogrulandi<br><br>
+
 ![Ekran Görüntüsü (7)](https://user-images.githubusercontent.com/100091154/217390902-10a0ac66-10b3-4c91-9f17-5e6355722ed8.png)
 
 
