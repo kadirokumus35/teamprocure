@@ -64,4 +64,6 @@ Java11  ve Maven projesi olusturulup TestNG framework kullanilarak olusturulmust
 <br>
 Her adimda alinan ekran goruntuleri "target" dosyasi icinde "Screenshots" klasoru icinde yer almaktadir.<br> 
 Buraya sadece pass olan rapor gorselini ekliyorum<br><br>
-![Ekran Görüntüsü (8)](https://user-images.githubusercontent.com/100091154/217393845-7e2f5063-83b7-4ee8-b224-07bb2acd23f5.png)
+![Ekran Görüntüsü (8)](https://user-images.githubusercontent.com/100091154/217393845-7e2f5063-83b7-4ee8-b224-07bb2acd23f5.png)<br><br>
+Pass videosu da 
+[bandicam 2023-02-06 02-54-35-306.zip](https://github.com/kadirokumus35/teamprocure/files/10680461/bandicam.2023-02-06.02-54-35-306.zip)
