@@ -76,5 +76,5 @@ https://user-images.githubusercontent.com/100091154/217396014-f9f9e353-6db1-4620
 
 
 # Sign-up sürecinde yasanan hatalar/tavsiyeler;
-1)
 
+[teamprocure.docx](https://github.com/kadirokumus35/teamprocure/files/10680504/teamprocure.docx)
