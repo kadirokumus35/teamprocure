@@ -71,10 +71,15 @@ Buraya sadece pass olan rapor gorselini ekliyorum<br><br>
 
 
 https://user-images.githubusercontent.com/100091154/217396014-f9f9e353-6db1-4620-8a3c-d8fc5a81f9dd.mp4
+<br><br>
+# Test otomasyon surecinde yasanan zorluklar ve cozumler:<br>
+
 
 <br><br><br>
 
 
 # Sign-up sürecinde yasanan hatalar/tavsiyeler;
 
-[teamprocure.docx](https://github.com/kadirokumus35/teamprocure/files/10680504/teamprocure.docx)
+[teamprocure.docx](https://github.com/kadirokumus35/teamprocure/files/10681103/teamprocure.docx)
+<br><br>
+
