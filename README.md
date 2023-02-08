@@ -72,8 +72,9 @@ Buraya sadece pass olan rapor gorselini ekliyorum<br><br>
 
 https://user-images.githubusercontent.com/100091154/217396014-f9f9e353-6db1-4620-8a3c-d8fc5a81f9dd.mp4
 <br><br>
-# Test otomasyon surecinde yasanan zorluklar ve cozumler:<br>
-
+# Test otomasyon surecinde yasanan zorluklar ve cozumler:<br><br>
+Test otomasyon surecinde olabilfigince SMART prensiplerine uyulmaya calisildi. POM dizaynina gore ve configuration.properties eklentisi ile her test case adimi dinamik yapida insaa edilmeye calisildi. Bilhassa e-mail adresi ve telefon numarasi Faker class vasitasiyla her test calistirilmasinda random bir deger ile sureklilik kazandi. Test otomasyonunda senkronizasyon hatalarinin onune gecmek icin  implicitly wait ve explicit wait kullanilarak ReusableMethods classi olusturuldu. Boylelikle ilgili ve gerekli yerlere cagrilarak clean cod ilkeleri cabalandi.<br>
+Sign-up adimlarinda yer alan drop-down menu iceren adimlarda Select classinda obje olusturularak locate alindi. Yine Reusablemethods classinda ekran goruntusu methodu olusturularak test asamalarina gorsel katki saglandi. 
 
 <br><br><br>
 
