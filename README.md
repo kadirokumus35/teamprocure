@@ -68,7 +68,11 @@ Buraya sadece pass olan rapor gorselini ekliyorum<br><br>
 # Pass videosu da <br><br>
 
 
-https://user-images.githubusercontent.com/100091154/217395287-5cb3e8b8-9db5-45ea-a27b-bb6b0de8b14e.mp4<br><br><br>
+
+
+https://user-images.githubusercontent.com/100091154/217396014-f9f9e353-6db1-4620-8a3c-d8fc5a81f9dd.mp4
+
+<br><br><br>
 
 
 # Sign-up sürecinde yasanan hatalar/tavsiyeler;
